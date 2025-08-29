@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Gustavo Panham Dourado
 **`Engenheiro de Software Full-Stack`**
 
-Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, Concluí meu Ensino médio na Fundação Bradesco. No momento estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e a cada dia aprendo mais sobre essa área maravilhosa, onde estou muito feliz de estar aprendendo sobre.
+Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu Ensino médio na Fundação Bradesco. No momento estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e a cada dia aprendo mais sobre essa área maravilhosa, onde estou muito feliz de estar aprendendo sobre.
 
 
 <p align="center">
