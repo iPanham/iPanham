@@ -13,7 +13,7 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
 ---
  <p align="center">
   
-  <a href="http://linkedin.com/in/gustavo-panham-b2934335a)/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-panham-b2934335a/)/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
