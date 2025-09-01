@@ -17,6 +17,9 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopanham@gmail.com)
+
+
 
 
 ---
