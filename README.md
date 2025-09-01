@@ -26,7 +26,7 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 
 <img 
@@ -73,7 +73,7 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
