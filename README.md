@@ -5,7 +5,7 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder/readme-typing-svg">
+  <a href="https://github.com/iPanham-/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Engenheiro%20Full-Stack;Sempre%20aprendendo;Seja%20bem%20vindo;ao%20meu%20perfil!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -14,7 +14,7 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
 
  <p align="center">
   
-  <a href="www.linkedin.com/in/gustavo-panham-b2934335a"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="www.linkedin.com/in/gustavo-panham"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
