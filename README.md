@@ -5,8 +5,7 @@ Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu
 
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Engenheiro%20Full-Stack;Sempre%20aprendendo;Seja%20bem%20vindo;ao%20meu%20perfil!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
