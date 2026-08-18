@@ -1,7 +1,15 @@
 # 🧑🏻‍💻 Gustavo Panham Dourado
-**`Engenheiro de Software Full-Stack`**
+### Software Engineering Student | Back-end Development
 
-Me chamo Gustavo Panham, tenho 18 anos e sou natural de São Paulo, concluí meu Ensino médio na Fundação Bradesco. No momento estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e a cada dia aprendo mais sobre essa área maravilhosa, onde estou muito feliz de estar aprendendo sobre.
+Sou estudante de **Engenharia de Software na FIAP**, com foco em desenvolvimento **Back-end e Engenharia de Software**, principalmente utilizando **Java e Spring Boot**.
+
+Tenho experiência profissional na área de Produtos e Tecnologia do **Itaú Unibanco**, onde tive contato com automações, RPA, ferramentas low-code, testes e processos de tecnologia em ambiente corporativo.
+
+Atualmente, venho aprofundando meus conhecimentos por meio do desenvolvimento de aplicações full-stack e APIs REST, trabalhando com tecnologias como **Java, Spring Boot, PostgreSQL, React e TypeScript**.
+
+Meu principal projeto atual é um **sistema de gerenciamento de empréstimos**, desenvolvido com arquitetura em camadas, API REST, persistência de dados em PostgreSQL, regras de negócio, tratamento de exceções e integração com uma aplicação React.
+
+Busco continuar evoluindo principalmente em **Java, Spring Boot, arquitetura de software, bancos de dados e desenvolvimento de sistemas back-end**.
 
 
 <p align="center">
